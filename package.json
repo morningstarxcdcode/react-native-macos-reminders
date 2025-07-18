@@ -19,7 +19,7 @@
   "devDependencies": {
     "@babel/core": "^7.25.8",
     "@babel/plugin-transform-private-methods": "^7.25.7",
-    "@babel/runtime": "^7.25.7",
+    "@babel/runtime": "^7.27.6",
     "@react-native/metro-config": "^0.75.4",
     "babel-jest": "^29.7.0",
     "eslint": "^8.57.1",
