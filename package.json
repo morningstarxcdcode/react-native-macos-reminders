@@ -12,7 +12,7 @@
   "dependencies": {
     "@rn-macos/popover": "^0.1.0",
     "react": "18.3.1",
-    "react-native": "0.75.4",
+    "react-native": "0.84.0",
     "react-native-macos": "0.75.9",
     "react-native-mmkv": "^2.12.2"
   },
